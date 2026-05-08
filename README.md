@@ -1,4 +1,4 @@
-Blog Dinamis PHP Native
+Projek Website Blog Dinamis 
 
 1. Deskripsi
 Project ini adalah aplikasi blog dinamis berbasis web yang dibuat menggunakan PHP Native dan MySQL. Sistem ini digunakan untuk mengelola artikel, kategori, tag, komentar, dan pengguna dengan fitur role admin dan author.
