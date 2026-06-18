@@ -157,6 +157,7 @@ blog_dinamis/
 ## 7. Author
 - Nama: Faija Kulla Azmina
 - Github: https://github.com/azminaa062/Blog-Dinamis.git
+- Link Youtube Video Demonstrasi Blog Dinamis Website : https://youtu.be/fA5HyMF_ccE
 
 ## 8. Lisensi
 Project ini bersifat open source dan dapat digunakan, dipelajari, serta dikembangkan kembali untuk kebutuhan pembelajaran, tugas kuliah, maupun pengembangan project pribadi.
