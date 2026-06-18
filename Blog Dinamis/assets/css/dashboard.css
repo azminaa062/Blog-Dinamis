@@ -1,0 +1,83 @@
+/* ===== BASE ===== */
+body {
+    background: #1c1f24;
+    color: #e6edf3;
+}
+
+/* ===== SIDEBAR ===== */
+.sidebar {
+    background: #0b0f14 !important;
+    width: 280px;
+}
+
+/* ===== MAIN CONTENT ===== */
+.main-content {
+    padding: 30px;
+    position: relative;
+}
+
+/* ===== CARD ===== */
+.card {
+    background: #0b0f14;
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.35);
+    transition: 0.25s ease;
+}
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+}
+.card h6 {
+    color: #8b949e;
+    font-size: 13px;
+}
+.card h3 {
+    color: #ffffff;
+}
+
+/* ===== TABLE ===== */
+.table {
+    background: #0b0f14;
+    color: #e6edf3;
+}
+.table th {
+    padding: 14px;
+    color: #8b949e;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+.table td {
+    padding: 14px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+.table tbody tr:hover {
+    background: rgba(255,255,255,0.03);
+}
+
+/* ===== BADGES ===== */
+.badge-premium {
+    padding: 5px 12px;
+    border-radius: 6px;
+    font-size: 11px;
+}
+.badge-publish {
+    background: #23863633;
+    color: #3fb950;
+}
+.badge-draft {
+    background: #d2992233;
+    color: #e3b341;
+}
+.badge-pending {
+    background: #da363333;
+    color: #ff7b72;
+}
+
+/* ===== STAR BACKGROUND ===== */
+#stars {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    z-index: 0;
+    pointer-events: none;
+}

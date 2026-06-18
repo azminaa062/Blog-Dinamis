@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.sidebar .nav-link {
+    border-radius: 8px;
+    padding: 10px 12px;
+}
+
+.sidebar .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.table {
+    background-color: white;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    margin-left: 6px;
+}
